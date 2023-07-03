@@ -1,6 +1,6 @@
 # UniversityManagement
 
-This project is universityManagement System that allows to manage event and student.
+This project is universityManagement System that allows to manage event and studentInformation.
 
 ## Framework And Language used in Project
 - Spring Boot 
